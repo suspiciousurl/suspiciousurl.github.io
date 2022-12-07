@@ -1,0 +1,9 @@
+<html>
+  <body>
+    <script>
+      alert("Your computer is infected by a virus, and it will be totally destroyed in 52 seconds")
+    </script>
+    <div>This content is not avaliable in your country</div>
+    <div>nginx</div>
+  </body>
+</html>
